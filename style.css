@@ -1,0 +1,40 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table, caption, th, td{
+    border: solid black 1px;
+}
+
+.Img_box{
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+img{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.Img_dsc{
+    margin-top: 0;
+    font-style: italic;
+}
